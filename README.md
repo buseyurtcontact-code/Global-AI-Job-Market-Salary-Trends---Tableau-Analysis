@@ -48,6 +48,12 @@ Bulgu: ABD, İsviçre ve Almanya açık ara öne çıkıyor. Gelişmekte olan ü
 Bulgu: Yüksek ilan sayısı yüksek maaş anlamına gelmiyor; uzmanlık gerektiren az sayıdaki rol daha yüksek ücretlendiriliyor.
 
 9. 🔵 Cluster & Trend Line
-Deneyim yılı ile ortalama maaş arasındaki ilişki scatter plot üzerinde gösterilmiş; Tableau'nun otomatik kümeleme algoritmasıyla 3 küme oluşturulmuştur. Her küme için ayrı trend çizgisi eklenmiştir.
-KümeProfil🔵 Cluster 1Düşük deneyim – Düşük maaş (giriş seviyesi roller)🟠 Cluster 2Orta düzey deneyim ve maaş🔴 Cluster 3Yüksek maaş – görece az deneyim (niş/stratejik roller)
+Deneyim yılı ile ortalama maaş arasındaki ilişki scatter plot üzerinde gösterilmiş; Tableau'nun otomatik kümeleme algoritmasıyla 3 küme oluşturulmuştur.
+ Her küme için ayrı trend çizgisi eklenmiştir.
+
+KümeProfil
+🔵 Cluster 1Düşük deneyim – Düşük maaş (giriş seviyesi roller)
+🟠 Cluster 2Orta düzey deneyim ve maaş
+🔴 Cluster 3Yüksek maaş – görece az deneyim (niş/stratejik roller)
+
 Bulgu: Pozitif korelasyon tüm kümelerde geçerli, ancak kırmızı kümede az deneyimle bile yüksek maaş mümkün (AI Director, Principal Scientist gibi roller).
